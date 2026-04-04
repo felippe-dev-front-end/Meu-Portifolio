@@ -63,9 +63,8 @@ Tenho experiência com:
 
 📧 Email: felippe.gabiel@gmail.com  
 📱 WhatsApp: 5543991033918  
-💼 GitHub: https://github.com/seuusuario  
+💼 GitHub: https://github.com/felippe-dev-front-end 
 
 ---
 
-⭐ Obrigado por visitar meu portfólio!
 ⭐ Obrigado por visitar meu portfólio!
