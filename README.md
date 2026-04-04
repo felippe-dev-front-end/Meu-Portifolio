@@ -31,8 +31,7 @@ Tenho experiência com:
 
 ## 📂 Projetos
 
-### 🔹 Projeto 1 – 
-Site Institucional - Psicóloga Clínica
+### 🔹 Projeto 1 – Site Institucional - Psicóloga Clínica
 
 📌 Descrição: Landing page desenvolvida para simular o site profissional de uma psicóloga clínica.  
 
