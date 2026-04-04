@@ -41,11 +41,13 @@ Tenho experiência com:
 
 ---
 
-### 🔹 Projeto 2 – Nome do Projeto
+### 🔹 Projeto 2 – Sorriso+ | Landing Page para Clínica Odontológica
 
-📌 Descrição: breve explicação do que o projeto faz  
-🔗 Demo: link aqui  
-💻 Código: link aqui  
+📌 Descrição: Este projeto é uma landing page profissional para clínica odontológica , desenvolvida com foco em design moderno, organização visual e experiência do usuário.
+
+🔗 Demo: https://felippe-dev-front-end.github.io/landing-page/
+
+💻 Repositório: https://felippe-dev-front-end.github.io/landing-page/
 
 ---
 
