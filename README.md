@@ -37,7 +37,7 @@ Tenho experiência com:
 
 🔗 Demo: https://felippe-dev-front-end.github.io/Portifolio-Piscologo/
 
-💻 Código: link aqui  
+💻 Repositório: https://felippe-dev-front-end.github.io/Portifolio-Piscologo/  
 
 ---
 
