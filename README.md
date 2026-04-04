@@ -31,10 +31,11 @@ Tenho experiência com:
 
 ## 📂 Projetos
 
-### 🔹 Projeto 1 – Nome do Projeto
+### 🔹 Projeto 1 – 
+Site Institucional - Psicóloga Clínica
 
-📌 Descrição: breve explicação do que o projeto faz  
-🔗 Demo: link aqui  
+📌 Descrição: Landing page desenvolvida para simular o site profissional de uma psicóloga clínica.  
+🔗 Demo: https://felippe-dev-front-end.github.io/Portifolio-Piscologo/
 💻 Código: link aqui  
 
 ---
